@@ -1,8 +1,12 @@
 ## Introduction
 
-## Professional Self Assessment
 
 ## Informal Code Review
+This is the code review in which I went over the two artifacts for my three enhancements.
+For each artifact I explain the existing purpose and functionality, then I point out flaws for correction, and my plans for enhancement.
+
+[Link to code review](https://youtu.be/xqhkl7x6Ez8)
+![Screenshot of code review video](/assets/images/code_review.png)
 
 ## Enhancement One: Software Design and Engineering
 Outcomes met: 1, 2, 3, & 4
@@ -22,7 +26,7 @@ The artifact I chose for Enhancement Two was my final project for CS-330 Compute
 
 I chose this project because of how we were expected to construct the 3D environment. We were supposed to construct complex 3D objects using simple 3D objects such as cubes, spheres, planes, pyramids, and other objects. But I didn’t like how cluttered it all became, how moving a complex object meant moving many simple objects, and how I couldn’t reuse complex objects without copying and pasting. During CS-330 I made some strides towards a more ideal system within that project but never finished every aspect of it that I wanted to. This capstone presents a chance to improve upon and finish my previous work.
 
-This Enhancement Two is built upon Enhancement One, in which I built the groundwork in something I like to call the “Scene System”. What Enhancement Two brings to that system is the “Scene Loader”, which allows for the loading of external configuration files that dictate the lighting, and positioning of 3D meshes, as well as how those meshes look in that Scene and lighting. It achieves this by using special file types (.SCENE, .CMO, .LIGHT, .MAT) that share a unique config file format that I created. The “Scene Loader” parses and tokenizes these config files for further processing that applies the user-defined scene to the “Scene System”, all while having format-error-checking. The tokenization-parsing system I created in the “Scene Loader” that utilizes the custom data structures in the “Scene System” demonstrates my understanding and skills in the usage of various data structures and algorithms.
+This Enhancement Two is built upon Enhancement One, in which I built the groundwork in something I like to call the “Scene System”. What Enhancement Two brings to that system is the “Scene Loader”, which allows for the loading of external configuration files that dictate the lighting, and positioning of 3D meshes, as well as how those meshes look in that Scene and lighting. It achieves this by using special file types (.SCENE, .CMO, .LIGHT, .MAT) that share a unique config file format that I created. The “Scene Loader” parses and tokenizes these config files for further processing that applies the user-defined scene to the “Scene System”, all while having format-error-checking. The tokenization-parsing system I created in the “Scene Loader” that utilizes the custom data structures in the “Scene System” demonstrates my understanding and skills in the usage of various data structures and algorithms. I also created the various example files for learning how to create your own Scenes, promoting collaborative usage of the program with professional-quality written communication.
 
 As I had mentioned in the narrative for Enhancement One, the process of enhancing and modifying this big project really brings forward the need for good time management and planning. I spent some time learning the general idea of tokenization for parsing, but in the end tried to mostly wing the implementation of the “Scene Loader”. I did so in an attempt to better understand the considerations needed for creating your own file format and parsing it. Although, much time would’ve been saved if I used something like JSON or YAML. 
 Much like with Enhancement One, I didn’t have any notable problems. Everything surprisingly went off without a hitch!
