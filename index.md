@@ -6,12 +6,13 @@ This is the code review in which I went over the two artifacts for my three enha
 For each artifact I explain the existing purpose and functionality, then I point out flaws for correction, and my plans for enhancement.
 
 [Link to code review](https://youtu.be/xqhkl7x6Ez8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xqhkl7x6Ez8?si=ufN_f5oeU5LSO1Fa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ![Screenshot of code review video](/assets/images/code_review.png)
 
 ## Enhancement One: Software Design and Engineering
 **Outcomes met: 1, 2, 3, 4**
 
-Links: [Original](https://github.com/Miyuue/Enhancement-One-and-Two---Original) \| [Enhanced](https://github.com/Miyuue/Enhancement-One)
+**Links:** [Original](https://github.com/Miyuue/Enhancement-One-and-Two---Original) \| [Enhanced](https://github.com/Miyuue/Enhancement-One)
 
 The artifact I chose for Enhancement One was my final project for CS-330 Computer Graphics from almost a year ago. It was a simple 3D graphics framework provided to us students that only displayed a simple triangle on screen, and we built it up into being able to produce a full 3D environment that you can move around in.
 
@@ -25,7 +26,7 @@ The process of enhancing and modifying this project took longer than I originall
 ## Enhancement Two: Data Structures and Algorithms
 **Outcomes met: 1, 2, 3, 4**
 
-Links: [Original](https://github.com/Miyuue/Enhancement-One-and-Two---Original) \| [Enhanced](https://github.com/Miyuue/Enhancement-Two)
+**Links:** [Original](https://github.com/Miyuue/Enhancement-One-and-Two---Original) \| [Enhanced](https://github.com/Miyuue/Enhancement-Two)
 
 The artifact I chose for Enhancement Two was my final project for CS-330 Computer Graphics almost a year ago. It was a simple 3D graphics framework provided to us students that only displayed a simple triangle on screen, and we built it up into being able to produce a full 3D environment that you can move around in.
 
@@ -40,7 +41,7 @@ Much like with Enhancement One, I didn’t have any notable problems. Everything
 ## Enhancement Three: Databases
 **Outcomes met: 3, 4, 5**
 
-Links: [Original](https://github.com/Miyuue/ACC-Toolkit/tree/8e7f396f89640d26f2900d39f0496b30424e5c14) \| [Enhanced](https://github.com/Miyuue/ACC-Toolkit)
+**Links:** [Original](https://github.com/Miyuue/ACC-Toolkit/tree/8e7f396f89640d26f2900d39f0496b30424e5c14) \| [Enhanced](https://github.com/Miyuue/ACC-Toolkit)
 
 This artifact is a simple app I made to help support me and my fellow Auto Care Center associates during my time at Walmart. I began making it about 4 days into the start of my CS-360 Mobile Architecture and Programming course 9 months ago. 
 It offers two bits of functionality, the first being a calculator for Walmart’s road hazard warranty, and the second being a collection of UPCs that we commonly needed. I worked on it as I learned more in CS-360, but then ran out of extra time and only finished about half of the functionality (that being the calculator).
