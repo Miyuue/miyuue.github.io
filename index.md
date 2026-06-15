@@ -7,7 +7,6 @@ For each artifact I explain the existing purpose and functionality, then I point
 
 [Link to code review](https://youtu.be/xqhkl7x6Ez8)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xqhkl7x6Ez8?si=ufN_f5oeU5LSO1Fa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-![Screenshot of code review video](/assets/images/code_review.png)
 
 ## Enhancement One: Software Design and Engineering
 **Outcomes met: 1, 2, 3, 4**
