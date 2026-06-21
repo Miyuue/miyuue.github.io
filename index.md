@@ -23,6 +23,15 @@ Finally, the concentration of my degree. Throughout my time at SNHU I've gained 
 
 Below you will find the two projects that I completed three enhancements on in the categories of Software Design and Engineering, Data Structures and Algorithms, and Databases. Each one will have an extensive discussion of each enhancement, as well as a link to before the enhancement and after the enhancement. These artifacts will showcase the skills and knowledge that I've learned during my time at SNHU.
 
+## Course Outcomes
+In this ePortfolio I demonstrate the following course outcomes:
+
+- Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
+- Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
+- Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices
+- Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals
+- Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
+
 
 ## Informal Code Review
 This is the code review in which I went over the two artifacts for my three enhancements.
