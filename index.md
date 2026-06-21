@@ -37,8 +37,8 @@ In this ePortfolio I demonstrate the following course outcomes:
 This is the code review in which I went over the two artifacts for my three enhancements.
 For each artifact I explain the existing purpose and functionality, then I point out flaws for correction, and my plans for enhancement.
 
-[Link to code review](https://youtu.be/xqhkl7x6Ez8)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xqhkl7x6Ez8?si=ufN_f5oeU5LSO1Fa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Link to code review](https://youtu.be/xqhkl7x6Ez8)
 
 
 ## Enhancement One: Software Design and Engineering
