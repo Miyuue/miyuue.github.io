@@ -1,5 +1,27 @@
 ## Introduction
-\(self review here\)
+Hello, my name is Samuel Williamson. 
+This ePortfolio is my final project and capstone for my BS in Computer Science with concentration in Software Engineering.
+Now that I'm at the end of the CS program at SNHU I can reflect on all the skills, knowledge, and experience I've gained during my time here.
+
+Throughout the coursework I've completed in my time here I've been introduced to a broad range of topics that have prepared me for professional work in the field of Computer Science. I've learned how to efficiently and systematically solve problems for real-life issues and how to design and deliver effective and scalable software solutions using collaborative development tools. I've also learned how to make ethical development choices when I make it into the field. All in all I've obtained superior Computer Science knowledge, skills, and expertise that I will demonstrate throughout this ePortfolio.
+
+I've learned how to collborate in a team environment and how to communicate with stakeholders during my time in CS-250 \(Software Development Life Cycle\), and CS-255 \(System Analysis and Design\). 
+In CS-250 I participated in an Agile-Scrum development environment in which I took on the different roles of Developer, Tester, Scrum Master, and Product Owner. I learned to professionally communicate with the team from the perspective of each role, as well as how to interview, survey, and get feedback from users and stakeholders for creating user-stories.
+In CS-255 I created a robust system design document for a client, as well as a professional presentation to convey the system deisgn in a less technical way. In effect, I learned the principles, methods and techniques used in systems development in order to create system models, and how to effectively communicate technical concepts and design decisions to various audiences in a professional manner.
+
+I've learned advanced Data Structures and Algorithms during my time in CS-300 \(Data Structures and Algorithms: Analysis and Design\).
+In CS-300 we implemented various data structures and sorting algorithms from scratch while analysing the performance and memory usage aspects of each using Big-O notation in order to inform the optimal usage of DSA in a program.
+
+I've used various structured and unstructured databases such as SQLite and MongoDB throughout a number of courses. I've learned to effectively store, process, analyse, and manipulate data for manual usage or for usage in a variety of PC, Mobile, and Web-based applications.
+
+Security was of utmost importance within all of my CS courses but I learned the most during my time in CS-305 \(Software Security\) and CS-405 \(Secure Coding\).
+In CS-305 I used encryption technologies, dependency-vulnerability checking, and functional testing to secure a web-server.
+In CS-405 I created a secure-development-policy for a fictional company that set up security principles, encryption and Triple-A policies, and secure coding standards using a Defense-in-Depth mindset.
+Across these and other courses I've learned techniques and strategies to develop robust and secure code using secure programming principles and security testing protocols, as well as when and how to use encryption technologies for secure communication.
+
+Finally, the concentration of my degree, I've gained immense skill in Software Engineering. I've undertaken many projects while going through all of my CS courses that have built up my skills in Software Engineering. Whether it be a program for rendering and moving through a 3D environment, a full-stack application for a vacation company, reverse engineering a terminal application for a brokerage company, or building and programming an IoT thermostat, I can professionally build it securely, reliably, and robustly. I can employ proven software engineering design methodologies, patterns, and processes for successful software design and development.
+
+Below you will find the two projects that I completed three enhancements on in the categories of Software Design and Engineering, Data Structures and Algorithms, and Databases. Each one will have an extensive discussion of each enhancement, as well as a link to before the enhancement and after the enhancement. These artifacts will showcase the skills and knowledge that I've learned during my time at SNHU.
 
 
 ## Informal Code Review
